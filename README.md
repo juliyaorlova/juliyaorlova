@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Julia.
-## I am a Software QA Engineer <img src="https://media0.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e470olh0zg02dmt44cjocg40rbq02exki9q1gzddxdt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60">
+## I am a Software QA Engineer <img src="https://media0.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e470olh0zg02dmt44cjocg40rbq02exki9q1gzddxdt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80">
 ### About me
  - :telescope: I’m working as a QA Manual and Automation Engineer with different Languages, services and programs.
 - 🌱 I’m  engaged in self-education and improving my knowledge base in Automation testing.   
