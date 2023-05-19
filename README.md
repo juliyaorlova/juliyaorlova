@@ -1,17 +1,17 @@
 ### Hi there 👋 My name is Julia.
 ## I am a Software QA Engineer.
 <img src="https://media0.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e470olh0zg02dmt44cjocg40rbq02exki9q1gzddxdt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120">
+
 ### About me
- - :telescope: I’m working as a QA Manual and Automation Engineer with different Languages, services and programs.
-- 🌱 I’m  engaged in self-education and improving my knowledge base in Automation testing.   
-- :mailbox:How to find me: <div id="badges">
- 
+ - :telescope: I’m working as a QA Software Engineer with different Languages,services and programs.
+- 🌱 I’m  engaged in self-education and improving my knowledge base in Automation testing.                                                                                                                                                                                   
+- :mailbox:How to find me:<div id="badges">
+
   <a href="https://www.linkedin.com/in/yuliyaorlova/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
-<!--
-
- :hammer_and_wrench: Languages and Tools :
+ 
+ #### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
