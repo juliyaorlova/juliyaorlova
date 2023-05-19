@@ -3,7 +3,7 @@
 <img src="https://media0.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e470olh0zg02dmt44cjocg40rbq02exki9q1gzddxdt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120">
 
 ### About me
- - :telescope: I’m working as a QA Software Engineer with different Languages,services and programs.
+ - :telescope: I’m working as a QA Software Engineer with different Languages, services and programs.
 - 🌱 I’m  engaged in self-education and improving my knowledge base in Automation testing.                                                                                                                                                                                   
 - :mailbox:How to find me:<div id="badges">
 
@@ -25,8 +25,6 @@
 &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>&nbsp;
-  <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
