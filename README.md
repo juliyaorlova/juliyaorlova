@@ -3,7 +3,7 @@
 ### About me
  - :telescope: I’m working as a QA Manual and Automation Engineer with different Languages, services and programs.
 - 🌱 I’m  engaged in self-education and improving my knowledge base in Automation testing.   
-- :mailbox:How to find me <div id="badges">
+- :mailbox:How to find me: <div id="badges">
  
   <a href="https://www.linkedin.com/in/yuliyaorlova/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
